@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@hiveio/dhive": "^1.2.5",
+    "axios": "^1.2.6"
+  },
+  "name": "act-on-feed-podping",
+  "version": "1.0.0",
+  "description": "Takes action on podping events for a select feed",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genebean/act-on-feed-podping.git"
+  },
+  "keywords": [
+    "podping"
+  ],
+  "author": "Gene Liverman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/genebean/act-on-feed-podping/issues"
+  },
+  "homepage": "https://github.com/genebean/act-on-feed-podping#readme"
+}
